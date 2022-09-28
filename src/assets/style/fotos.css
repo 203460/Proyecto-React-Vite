@@ -1,0 +1,12 @@
+.contenedor-fotos {
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.seccion-fotos h1 {
+    margin-left: 160px;
+    margin-bottom: 30px;
+}
